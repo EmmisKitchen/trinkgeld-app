@@ -1,0 +1,17 @@
+TRINKGELD-APP – INSTALLATION AUF DEM IPAD
+
+1. Die bereitgestellte HTTPS-Adresse in Safari öffnen.
+2. Safari: Teilen-Symbol antippen.
+3. „Zum Home-Bildschirm“ wählen.
+4. „Hinzufügen“ antippen.
+5. Die App über das neue Home-Bildschirm-Symbol starten.
+6. Beim ersten Start einmal den Filialnamen eingeben und speichern.
+
+Danach:
+- Die App speichert Eingaben automatisch lokal auf genau diesem iPad.
+- Jede Filiale hat dadurch ihren eigenen Datenbestand.
+- Die App kann nach dem ersten vollständigen Laden auch ohne Internet genutzt werden.
+- Excel-Exporte enthalten den Filialnamen im Dateinamen.
+
+WICHTIG:
+Nicht Browser-/Website-Daten löschen, solange die lokalen Abrechnungen noch gebraucht werden.
